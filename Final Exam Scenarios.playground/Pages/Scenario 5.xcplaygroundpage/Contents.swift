@@ -55,6 +55,6 @@ let offWhite = Color(hue: 85, saturation: 4, brightness: 89, alpha: 100)
  ## Template code
  The code below is necessary to see results in the Assistant Editor at right. Please do not remove.
  */
-PlaygroundPage.current.liveView = canvas.imageView
+PlaygroundPage.current.liveView = canvas
 
 

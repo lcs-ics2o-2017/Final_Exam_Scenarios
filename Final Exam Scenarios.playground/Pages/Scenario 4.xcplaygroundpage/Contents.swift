@@ -56,6 +56,6 @@ let blue = Color(hue: 239, saturation: 42, brightness: 67, alpha: 50)
  ## Template code
  The code below is necessary to see results in the Assistant Editor at right. Please do not remove.
  */
-PlaygroundPage.current.liveView = canvas.imageView
+PlaygroundPage.current.liveView = canvas
 
 
